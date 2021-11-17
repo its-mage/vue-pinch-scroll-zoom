@@ -8,7 +8,7 @@ https://vue-pinch-scroll-zoom.coddicat.com/
 
 ## Installation
 ```
-npm i @coddicat/vue-pinch-scroll-zoom
+yarn add vue-class-component vue-product-carousel vue-property-decorator @coddicat/vue-pinch-scroll-zoom
 ```
 
 ## Usage
